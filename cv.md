@@ -1,5 +1,5 @@
 # Anastasia Vodchits
-![Avatar](/pictures/avatar.png) 
+![Avatar](/pics/avatar.png) 
 
 ---
 
